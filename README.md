@@ -1,2 +1,2 @@
 # Leet-Code-Problems
-Solved problems from LeetCode
+This is a testing repository for us to learn about GitHub
