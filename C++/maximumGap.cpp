@@ -1,5 +1,6 @@
 #include <algorithm>
 #include <vector>
+
 class Solution {
 public:
     int maximumGap(vector<int>& nums) {
